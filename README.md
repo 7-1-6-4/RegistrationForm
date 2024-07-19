@@ -1,0 +1,2 @@
+This Registration from program is written in java a language that supports object oriented programming. When the proram is run in an IDE that supports jave like Vscode, a GUI appears where the user can register by simply entering their name, mobile, gender, date of birth 
+in the form of date/month/year, address and finally agreeing to terms and conditions. The user should click the submit button and their entered credentials appear on the text box on their right. The user can Reset the everything to register another person.
